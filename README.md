@@ -38,3 +38,5 @@ This section outlines the Codewars challenges I have worked on. Each row contain
 🔍 You can [explore more Challenge](./challenge/) projects.
 
 ---
+
+🙏🏻Thank you to Codewars for the excellent practice challenges, which helped me develop my coding skills in a fun and efficient way.
