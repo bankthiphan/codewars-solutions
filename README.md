@@ -1,6 +1,6 @@
 # 🧠 Codewars Solutions
 
-![Codewars banner](./assets/images/Codewars.png)
+![Codewars banner](./assets/images/codewars-banner.png)
 
 **Codewars** is an online platform for practicing coding skills, solving problems, and learning new programming languages through a wide variety of challenging tasks, or 'katas,' of different difficulty levels.
 
@@ -24,5 +24,17 @@
     <img alt="Swift Badge" src="https://img.shields.io/badge/swift-transparent?style=for-the-badge&logo=swift&logoColor=fff&color=F05138">
     <img alt="TypeScript Badge" src="https://img.shields.io/badge/typescript-transparent?style=for-the-badge&logo=typescript&logoColor=fff&color=3178C6">
 </p>
+
+---
+
+## 📁 Challenge on Codewars
+
+This section outlines the Codewars challenges I have worked on. Each row contains key details, and you can access the corresponding code files and solutions by clicking the 'Open' link in the 'Directory' column.
+
+| Kyu level | Project name | Description | Tags | Directory |
+| --- | -------------| ----------- |----- | ---------- |
+| 8 kyu | [**Remove first and last Character**](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | Write a function that removes the first and last characters of a string. You're given one parameter, the original string. | `String`, `Fundamentals` | [Open](./challenge/01-remove-first-last-character/) |
+
+🔍 You can [explore more Challenge](./challenge/) projects.
 
 ---
